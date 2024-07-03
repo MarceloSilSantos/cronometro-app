@@ -1,0 +1,21 @@
+.cronometro{
+    display: flex;
+    text-align: center;
+    margin-top: 50px;
+}
+.cronometro h1{
+    font-size: 50px;
+}
+.botoes{
+    margin-top: 20px;
+}
+.botoes button{
+    margin: 0 10px;
+    font-size: 1.5 rem;
+    padding: 10 px 20 px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
